@@ -1,4 +1,4 @@
 git status
 git add .
-git commit -m "update: <what you changed today>"
+git commit -m "update: <new questions on leetcode tried>"
 git push
