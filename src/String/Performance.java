@@ -1,4 +1,13 @@
 package String;
 
 public class Performance {
+    public static void main(String[] args) {
+        String str="";
+        for(int i=0;i<26;i++){
+            char ch=(char)('a'+i);
+            System.out.print(ch);
+            str=str+ch;
+            System.out.println(str);
+        }
+    }
 }
